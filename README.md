@@ -3,8 +3,6 @@
   <video align="center" loop width=100% src="https://github.com/Sujalsinh12345/Sujalsinh12345/assets/91388825/32ba355f-583d-4e99-ba1d-364e51bc0bd6"></video> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=Sujalsinh12345)
-
 ## 🛠 Primary Tech Stack
 
 ### Programming Languages
@@ -84,8 +82,8 @@
 
 ## 📊 GitHub Stats
 
-![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujalsinh12345&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalsinh12345&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthviraj-rajput&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-rajput&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Sujalsinh12345&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=pruthviraj-rajput&theme=onedark)
